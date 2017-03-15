@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author Sebastián
  */
 
 public class Lib {
